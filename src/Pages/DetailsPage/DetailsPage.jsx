@@ -29,6 +29,7 @@ const DetailsPage = () => {
                 <div className="raceid">race: {arrayObjects.race}</div>
                 <div className="genderid">Gender: {arrayObjects.gender}</div>
                 <div className="descriptionid">Description: {arrayObjects.description}</div>
+                
               </div>
             </div>
           </div>

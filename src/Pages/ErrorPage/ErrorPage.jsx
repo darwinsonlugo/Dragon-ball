@@ -3,11 +3,9 @@ import './ErrorPage.css'
 
 const ErrorPage = () => {
   return (
-    <div className='title'>
-      <p className='textError'>
-        ErrorPage...
-        </p>
-        </div>
+    <div className='error-container'>
+      <p className='error-text'>¡Oops! Página no encontrada</p>
+    </div>
   )
 }
 
